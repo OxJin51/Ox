@@ -1,0 +1,6 @@
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/Sqlist.dir
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/main.dir
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/CMakeCCompilerId.dir
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion code/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/test-1/1-6_inversion.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-2/2-2_sum.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-2/2-7_FIB.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-2/2-7_FIB_array.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-3/3-1_convert.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-3/3-5_perfect_number.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-4/4-1_select_sort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-5/5-7_str_delete_.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-6/6-2_car_id.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-1_max.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-2_n_k.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-2_n_k_circle.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-3_convert.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-3_convert_if.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test-7/7-4_prime.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

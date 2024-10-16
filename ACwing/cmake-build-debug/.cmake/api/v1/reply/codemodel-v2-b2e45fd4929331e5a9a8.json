@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1234::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1234-Debug-375df818f23757a95509.json",
+					"name" : "1234",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "609::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-609-Debug-335d37311e058eb2fc46.json",
+					"name" : "609",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "616::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-616-Debug-1031ce67561e46035419.json",
+					"name" : "616",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "653::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-653-Debug-603fc86e7438fedf5ffa.json",
+					"name" : "653",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "666::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-666-Debug-94d74aea1f259fa4a495.json",
+					"name" : "666",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeCCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeCCompilerId-Debug-727b02174233f904dca8.json",
+					"name" : "CMakeCCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeCXXCompilerId-Debug-2e6e45c25e1acf469f53.json",
+					"name" : "CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lianbiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lianbiao-Debug-487cb2e4466e9d14c967.json",
+					"name" : "lianbiao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lix-Debug-8d69cedefd61e6bf11c6.json",
+					"name" : "lix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-d3d3f4e5bc7da622625c.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "n_diamond::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-n_diamond-Debug-d3715b8cd2418175403d.json",
+					"name" : "n_diamond",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Clion code/ACwing/cmake-build-debug",
+		"source" : "D:/Clion code/ACwing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

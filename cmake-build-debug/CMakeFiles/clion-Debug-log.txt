@@ -1,0 +1,16 @@
+"D:\codetools\CLion 2023.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/codetools/CLion 2023.3.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Clion code" -B "D:\Clion code\cmake-build-debug"
+CMake Error at CMakeLists.txt:9 (add_executable):
+  add_executable cannot create target "CMakeCXXCompilerId" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory "D:/Clion code".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  add_executable cannot create target "CMakeCCompilerId" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory "D:/Clion code".  See documentation
+  for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!

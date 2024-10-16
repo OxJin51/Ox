@@ -1,0 +1,13 @@
+# ninja log v5
+1	161	7322216918870429	CMakeFiles/sqlist.dir/Sqlist/sqlist.cpp.obj	ffd9515b87bb4239
+1	161	7325464048117002	CMakeFiles/delete_x.dir/Sqlist/delete_x.cpp.obj	8894cd723820f523
+161	240	7322216919325246	sqlist.exe	21e4f2e22e9f4c9d
+2	188	7326840173231538	CMakeFiles/main.dir/main.cpp.obj	fe7bef15bba49d53
+161	211	7325464048597009	delete_x.exe	ce27476fb367f589
+188	244	7326840173751566	main.exe	4a31970abc0d6ccf
+2	204	7331297321392054	CMakeFiles/find_x.dir/Sqlist/find_x.cpp.obj	5c8cfae92890a9f0
+204	268	7331297322004597	find_x.exe	b095776317fa504a
+1	200	7359335007332578	CMakeFiles/Lab_Sqlist_c.dir/Lab_lesson/Lab_Sqlist/Lab_Sqlist_c.c.obj	a9b2ec574e64a2e6
+200	532	7359335010624876	Lab_Sqlist_c.exe	6d627d3c3875b0a5
+0	213	7368350962270710	CMakeFiles/Lab_Linklist_c.dir/Lab_lesson/Lab_Linklist/Lab_Linklist_c.c.obj	853865eb497d62d
+214	506	7368350964883327	Lab_Linklist_c.exe	d05b220621155018

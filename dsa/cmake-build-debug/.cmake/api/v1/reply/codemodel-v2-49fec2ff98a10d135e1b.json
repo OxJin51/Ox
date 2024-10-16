@@ -1,0 +1,249 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeCCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeCCompilerId-Debug-727b02174233f904dca8.json",
+					"name" : "CMakeCCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeCXXCompilerId-Debug-2e6e45c25e1acf469f53.json",
+					"name" : "CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Josephus_Problem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Josephus_Problem-Debug-aa576f6b4fe2dc8df189.json",
+					"name" : "Josephus_Problem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_BinTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_BinTree-Debug-68d471fded68227936b6.json",
+					"name" : "Lab_BinTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Cir_Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Cir_Queue-Debug-76f29f8db7b46ef5cf14.json",
+					"name" : "Lab_Cir_Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Graph-Debug-2eaa3b3c0982373ed45a.json",
+					"name" : "Lab_Graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_HaffmanTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_HaffmanTree-Debug-f26ec67ecc34b6a9bd76.json",
+					"name" : "Lab_HaffmanTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Link_Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Link_Queue-Debug-ceb02b56c36e027ea948.json",
+					"name" : "Lab_Link_Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Link_Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Link_Stack-Debug-8fec1a56312a0dda6054.json",
+					"name" : "Lab_Link_Stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Linklist_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Linklist_c-Debug-f228b6d94f1ebcf92950.json",
+					"name" : "Lab_Linklist_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Seq_Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Seq_Stack-Debug-8e0ba08ddab4e6459114.json",
+					"name" : "Lab_Seq_Stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_Sqlist_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_Sqlist_c-Debug-15adf047370bcb38e142.json",
+					"name" : "Lab_Sqlist_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_String::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_String-Debug-014b95e9a02258c10798.json",
+					"name" : "Lab_String",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_String_Match::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_String_Match-Debug-e80b306657ca912d68bb.json",
+					"name" : "Lab_String_Match",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_search_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_search_sort-Debug-2edc4260e534052cc41e.json",
+					"name" : "Lab_search_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Linklist_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Linklist_test-Debug-da58f7f257584b5d7856.json",
+					"name" : "Linklist_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sqstack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sqstack-Debug-deed1f82a964759e6d2d.json",
+					"name" : "Sqstack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "delete_x::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-delete_x-Debug-a1afff79cc10566d45ac.json",
+					"name" : "delete_x",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "find_x::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-find_x-Debug-644402e7e8ca37668d61.json",
+					"name" : "find_x",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linklist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linklist-Debug-aa03fa46a2f6604dbeab.json",
+					"name" : "linklist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-e3d3dd17cdbeb5c32512.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlist-Debug-851cd27dfeddaace3d9d.json",
+					"name" : "sqlist",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Clion code/dsa/cmake-build-debug",
+		"source" : "D:/Clion code/dsa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

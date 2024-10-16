@@ -1,0 +1,13 @@
+# ninja log v5
+1	61	7239023768985444	CMakeFiles/Clion_code.dir/main.c.obj	224808ab966033b3
+50	132	7239026915137803	D:/Clion code/.runtime/CMakeCCompilerId.exe	84c983fcedc586f4
+61	160	7239023769951216	Clion_code.exe	3b9571317e477eb7
+0	50	7239026914336007	CMakeFiles/CMakeCCompilerId.dir/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c.obj	54d469374e9ade1a
+0	41	7239031952490118	CMakeFiles/5-3.dir/5-3.c.obj	3f0986dd44895122
+0	155	7239167712854698	build.ninja	bb633c082d7e9de1
+1	132	7239028832907695	CMakeFiles/main.dir/main.c.obj	51bbe56df10a2c4c
+132	182	7239028834173013	D:/Clion code/.runtime/main.exe	16d52e40f88f0da
+41	107	7239031953023330	D:/Clion code/.runtime/5-3.exe	a90c6e8700528840
+4	387	7239170749467083	CMakeFiles/main.dir/5-3.c.obj	9b0cfadb86564c6d
+1	37	7239170944633275	CMakeFiles/5-3.dir/5-3.c.obj	3f0986dd44895122
+37	327	7239170947355276	D:/Clion code/.runtime/5-3.exe	a90c6e8700528840
