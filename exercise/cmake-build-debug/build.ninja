@@ -1163,6 +1163,39 @@ build ztx333.exe: CXX_EXECUTABLE_LINKER__ztx333_Debug CMakeFiles/ztx333.dir/else
   TARGET_PDB = ztx333.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target p1909
+
+
+#############################################
+# Order-only phony target for p1909
+
+build cmake_object_order_depends_target_p1909: phony || CMakeFiles/p1909.dir
+
+build CMakeFiles/p1909.dir/luogu/2024-10/p1909.cpp.obj: CXX_COMPILER__p1909_unscanned_Debug D$:/Clion$ code/exercise/luogu/2024-10/p1909.cpp || cmake_object_order_depends_target_p1909
+  DEP_FILE = CMakeFiles\p1909.dir\luogu\2024-10\p1909.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p1909.dir
+  OBJECT_FILE_DIR = CMakeFiles\p1909.dir\luogu\2024-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p1909
+
+
+#############################################
+# Link the executable p1909.exe
+
+build p1909.exe: CXX_EXECUTABLE_LINKER__p1909_Debug CMakeFiles/p1909.dir/luogu/2024-10/p1909.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p1909.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p1909.exe
+  TARGET_IMPLIB = libp1909.dll.a
+  TARGET_PDB = p1909.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target b2002
 
 
@@ -2058,6 +2091,8 @@ build p1572: phony p1572.exe
 
 build p189: phony p189.exe
 
+build p1909: phony p1909.exe
+
 build p2089: phony p2089.exe
 
 build p2249: phony p2249.exe
@@ -2104,7 +2139,7 @@ build ztx333: phony ztx333.exe
 #############################################
 # Folder: D:/Clion code/exercise/cmake-build-debug
 
-build all: phony 5_31.exe p189.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
+build all: phony 5_31.exe p189.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe p1909.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
 
 # =============================================================================
 # Built-in targets
