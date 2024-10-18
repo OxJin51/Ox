@@ -32,7 +32,10 @@ D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx1.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx222.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx333.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1055.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1307.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1909.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p5015.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/b2002.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/b2025.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1160.dir
