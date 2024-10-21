@@ -14,4 +14,3 @@ foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" soft ${file})
     add_executable (${soft} ${file})
 endforeach ()
-

@@ -338,6 +338,39 @@ build 954_a.exe: CXX_EXECUTABLE_LINKER__954_a_Debug CMakeFiles/954_a.dir/codefor
   TARGET_PDB = 954_a.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 979_A
+
+
+#############################################
+# Order-only phony target for 979_A
+
+build cmake_object_order_depends_target_979_A: phony || CMakeFiles/979_A.dir
+
+build CMakeFiles/979_A.dir/codeforces/div2/979/979_A.cpp.obj: CXX_COMPILER__979_A_unscanned_Debug D$:/Clion$ code/exercise/codeforces/div2/979/979_A.cpp || cmake_object_order_depends_target_979_A
+  DEP_FILE = CMakeFiles\979_A.dir\codeforces\div2\979\979_A.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\979_A.dir
+  OBJECT_FILE_DIR = CMakeFiles\979_A.dir\codeforces\div2\979
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 979_A
+
+
+#############################################
+# Link the executable 979_A.exe
+
+build 979_A.exe: CXX_EXECUTABLE_LINKER__979_A_Debug CMakeFiles/979_A.dir/codeforces/div2/979/979_A.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\979_A.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 979_A.exe
+  TARGET_IMPLIB = lib979_A.dll.a
+  TARGET_PDB = 979_A.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target div2_pa
 
 
@@ -1163,6 +1196,39 @@ build ztx333.exe: CXX_EXECUTABLE_LINKER__ztx333_Debug CMakeFiles/ztx333.dir/else
   TARGET_PDB = ztx333.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target p1042
+
+
+#############################################
+# Order-only phony target for p1042
+
+build cmake_object_order_depends_target_p1042: phony || CMakeFiles/p1042.dir
+
+build CMakeFiles/p1042.dir/luogu/2024-10/p1042.cpp.obj: CXX_COMPILER__p1042_unscanned_Debug D$:/Clion$ code/exercise/luogu/2024-10/p1042.cpp || cmake_object_order_depends_target_p1042
+  DEP_FILE = CMakeFiles\p1042.dir\luogu\2024-10\p1042.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p1042.dir
+  OBJECT_FILE_DIR = CMakeFiles\p1042.dir\luogu\2024-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p1042
+
+
+#############################################
+# Link the executable p1042.exe
+
+build p1042.exe: CXX_EXECUTABLE_LINKER__p1042_Debug CMakeFiles/p1042.dir/luogu/2024-10/p1042.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p1042.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p1042.exe
+  TARGET_IMPLIB = libp1042.dll.a
+  TARGET_PDB = p1042.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target p1055
 
 
@@ -1260,6 +1326,39 @@ build p1909.exe: CXX_EXECUTABLE_LINKER__p1909_Debug CMakeFiles/p1909.dir/luogu/2
   TARGET_FILE = p1909.exe
   TARGET_IMPLIB = libp1909.dll.a
   TARGET_PDB = p1909.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target p2670
+
+
+#############################################
+# Order-only phony target for p2670
+
+build cmake_object_order_depends_target_p2670: phony || CMakeFiles/p2670.dir
+
+build CMakeFiles/p2670.dir/luogu/2024-10/p2670.cpp.obj: CXX_COMPILER__p2670_unscanned_Debug D$:/Clion$ code/exercise/luogu/2024-10/p2670.cpp || cmake_object_order_depends_target_p2670
+  DEP_FILE = CMakeFiles\p2670.dir\luogu\2024-10\p2670.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p2670.dir
+  OBJECT_FILE_DIR = CMakeFiles\p2670.dir\luogu\2024-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p2670
+
+
+#############################################
+# Link the executable p2670.exe
+
+build p2670.exe: CXX_EXECUTABLE_LINKER__p2670_Debug CMakeFiles/p2670.dir/luogu/2024-10/p2670.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p2670.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p2670.exe
+  TARGET_IMPLIB = libp2670.dll.a
+  TARGET_PDB = p2670.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p5015
@@ -2128,6 +2227,8 @@ build 949_A: phony 949_A.exe
 
 build 954_a: phony 954_a.exe
 
+build 979_A: phony 979_A.exe
+
 build CMakeCCompilerId: phony CMakeCCompilerId.exe
 
 build CMakeCXXCompilerId: phony CMakeCXXCompilerId.exe
@@ -2184,6 +2285,8 @@ build mokit_5: phony mokit_5.exe
 
 build normal_1: phony normal_1.exe
 
+build p1042: phony p1042.exe
+
 build p1055: phony p1055.exe
 
 build p1160: phony p1160.exe
@@ -2199,6 +2302,8 @@ build p1909: phony p1909.exe
 build p2089: phony p2089.exe
 
 build p2249: phony p2249.exe
+
+build p2670: phony p2670.exe
 
 build p5015: phony p5015.exe
 
@@ -2244,7 +2349,7 @@ build ztx333: phony ztx333.exe
 #############################################
 # Folder: D:/Clion code/exercise/cmake-build-debug
 
-build all: phony 5_31.exe p189.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe p1055.exe p1307.exe p1909.exe p5015.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
+build all: phony 5_31.exe p189.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe 979_A.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe p1042.exe p1055.exe p1307.exe p1909.exe p2670.exe p5015.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
 
 # =============================================================================
 # Built-in targets

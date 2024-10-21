@@ -7,6 +7,7 @@ D:/Clion code/exercise/cmake-build-debug/CMakeFiles/166_A.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/166_B.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/949_A.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/954_a.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/979_A.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/div2_pa.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/946_B.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/946_a.dir
@@ -32,9 +33,11 @@ D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx1.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx222.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/ztx333.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1042.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1055.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1307.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p1909.dir
+D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p2670.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/p5015.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/b2002.dir
 D:/Clion code/exercise/cmake-build-debug/CMakeFiles/b2025.dir
