@@ -4,10 +4,10 @@
 #include<stdio.h>
 int main()
 {
-    int a,b;
-    scanf("%d %d",&a,&b);
-
-    printf("a=%d b=%d",a,b);
+    int a;
+    char c;
+    scanf("%d%c",&a,&c);
+    printf("%d %c",a,c);
 
 
 

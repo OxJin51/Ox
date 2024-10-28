@@ -107,6 +107,105 @@ build p189.exe: CXX_EXECUTABLE_LINKER__p189_Debug CMakeFiles/p189.dir/Starry/p18
   TARGET_PDB = p189.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target p38
+
+
+#############################################
+# Order-only phony target for p38
+
+build cmake_object_order_depends_target_p38: phony || CMakeFiles/p38.dir
+
+build CMakeFiles/p38.dir/Starry/p38.cpp.obj: CXX_COMPILER__p38_unscanned_Debug D$:/Clion$ code/exercise/Starry/p38.cpp || cmake_object_order_depends_target_p38
+  DEP_FILE = CMakeFiles\p38.dir\Starry\p38.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p38.dir
+  OBJECT_FILE_DIR = CMakeFiles\p38.dir\Starry
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p38
+
+
+#############################################
+# Link the executable p38.exe
+
+build p38.exe: CXX_EXECUTABLE_LINKER__p38_Debug CMakeFiles/p38.dir/Starry/p38.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p38.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p38.exe
+  TARGET_IMPLIB = libp38.dll.a
+  TARGET_PDB = p38.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target p58
+
+
+#############################################
+# Order-only phony target for p58
+
+build cmake_object_order_depends_target_p58: phony || CMakeFiles/p58.dir
+
+build CMakeFiles/p58.dir/Starry/p58.cpp.obj: CXX_COMPILER__p58_unscanned_Debug D$:/Clion$ code/exercise/Starry/p58.cpp || cmake_object_order_depends_target_p58
+  DEP_FILE = CMakeFiles\p58.dir\Starry\p58.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p58.dir
+  OBJECT_FILE_DIR = CMakeFiles\p58.dir\Starry
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p58
+
+
+#############################################
+# Link the executable p58.exe
+
+build p58.exe: CXX_EXECUTABLE_LINKER__p58_Debug CMakeFiles/p58.dir/Starry/p58.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p58.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p58.exe
+  TARGET_IMPLIB = libp58.dll.a
+  TARGET_PDB = p58.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target p59
+
+
+#############################################
+# Order-only phony target for p59
+
+build cmake_object_order_depends_target_p59: phony || CMakeFiles/p59.dir
+
+build CMakeFiles/p59.dir/Starry/p59.cpp.obj: CXX_COMPILER__p59_unscanned_Debug D$:/Clion$ code/exercise/Starry/p59.cpp || cmake_object_order_depends_target_p59
+  DEP_FILE = CMakeFiles\p59.dir\Starry\p59.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p59.dir
+  OBJECT_FILE_DIR = CMakeFiles\p59.dir\Starry
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p59
+
+
+#############################################
+# Link the executable p59.exe
+
+build p59.exe: CXX_EXECUTABLE_LINKER__p59_Debug CMakeFiles/p59.dir/Starry/p59.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p59.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p59.exe
+  TARGET_IMPLIB = libp59.dll.a
+  TARGET_PDB = p59.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target p7
 
 
@@ -1262,6 +1361,39 @@ build p1055.exe: CXX_EXECUTABLE_LINKER__p1055_Debug CMakeFiles/p1055.dir/luogu/2
   TARGET_PDB = p1055.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target p1089
+
+
+#############################################
+# Order-only phony target for p1089
+
+build cmake_object_order_depends_target_p1089: phony || CMakeFiles/p1089.dir
+
+build CMakeFiles/p1089.dir/luogu/2024-10/p1089.cpp.obj: CXX_COMPILER__p1089_unscanned_Debug D$:/Clion$ code/exercise/luogu/2024-10/p1089.cpp || cmake_object_order_depends_target_p1089
+  DEP_FILE = CMakeFiles\p1089.dir\luogu\2024-10\p1089.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\p1089.dir
+  OBJECT_FILE_DIR = CMakeFiles\p1089.dir\luogu\2024-10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target p1089
+
+
+#############################################
+# Link the executable p1089.exe
+
+build p1089.exe: CXX_EXECUTABLE_LINKER__p1089_Debug CMakeFiles/p1089.dir/luogu/2024-10/p1089.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\p1089.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = p1089.exe
+  TARGET_IMPLIB = libp1089.dll.a
+  TARGET_PDB = p1089.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target p1307
 
 
@@ -2289,6 +2421,8 @@ build p1042: phony p1042.exe
 
 build p1055: phony p1055.exe
 
+build p1089: phony p1089.exe
+
 build p1160: phony p1160.exe
 
 build p1307: phony p1307.exe
@@ -2305,6 +2439,8 @@ build p2249: phony p2249.exe
 
 build p2670: phony p2670.exe
 
+build p38: phony p38.exe
+
 build p5015: phony p5015.exe
 
 build p5709: phony p5709.exe
@@ -2318,6 +2454,10 @@ build p5719: phony p5719.exe
 build p5720: phony p5720.exe
 
 build p5721: phony p5721.exe
+
+build p58: phony p58.exe
+
+build p59: phony p59.exe
 
 build p7: phony p7.exe
 
@@ -2349,7 +2489,7 @@ build ztx333: phony ztx333.exe
 #############################################
 # Folder: D:/Clion code/exercise/cmake-build-debug
 
-build all: phony 5_31.exe p189.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe 979_A.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe p1042.exe p1055.exe p1307.exe p1909.exe p2670.exe p5015.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
+build all: phony 5_31.exe p189.exe p38.exe p58.exe p59.exe p7.exe CMakeCXXCompilerId.exe 1881A.exe 166_A.exe 166_B.exe 949_A.exe 954_a.exe 979_A.exe div2_pa.exe 946_B.exe 946_a.exe div3_938_a.exe div3_938_b.exe div3_938_c.exe div_3_a.exe div_3_a1.exe problem_a.exe div4_1950_a.exe div4_1950_b.exe div4_1950_c.exe div_4_a.exe div_4_b.exe div_4_c.exe mokit_1.exe mokit_2.exe mokit_3.exe mokit_4.exe mokit_5.exe primenum.exe ztx.exe ztx1.exe ztx222.exe ztx333.exe p1042.exe p1055.exe p1089.exe p1307.exe p1909.exe p2670.exe p5015.exe b2002.exe b2025.exe p1160.exe p2089.exe p2249.exe p5709.exe p8782.exe ptest.exe p1572.exe p5718.exe p57182.exe p5719.exe p5720.exe p5721.exe main.exe NC16649.exe day_1.exe day_2.exe l1_009.exe normal_1.exe test.exe LIbrary.exe CMakeCCompilerId.exe swt.exe
 
 # =============================================================================
 # Built-in targets
